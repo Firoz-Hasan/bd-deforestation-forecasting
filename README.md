@@ -148,5 +148,4 @@ Example environment used in the paper experiments (workstation):
 
 How to cite
 -----------
-If you use this repository, please cite the associated paper (add final citation here once accepted),
-and include the repository URL and release tag (e.g., v1.0.0) used for your experiments.
+If you use this repository, please cite the associated paper, and include the repository URL and release tag (e.g., v1.0.0) used for your experiments.
